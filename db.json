@@ -1,0 +1,24 @@
+{
+    "contacts": [
+        {
+            "id": "b06d859a-6f76-4343-aea4-234ffba473dd",
+            "name": "Roshini R",
+            "email": "roshini412rengasamy@gmail.com"
+        },
+        {
+            "id": "00b09ed1-f2c7-476a-afdf-dc8c60ba2489",
+            "name": "Prakash",
+            "email": "prakash98mdu@gmail.com"
+        },
+        {
+            "id": "230da3e6-bd0f-43e4-a9ad-3f50c7617e82",
+            "name": "Vishnu",
+            "email": "vishnu@gmail.com"
+        },
+        {
+            "id": "26134600-b033-420a-be8d-01420dabfe4e",
+            "name": "Michael",
+            "email": "michal@mailinator.com"
+        }
+    ]
+}
